@@ -1,0 +1,88 @@
+{
+  "planets": [
+    {
+      "id": "a1b2c3",
+      "name": "Mercurio",
+      "type": "Planeta",
+      "distanceFromSun": "57.91 millones de km"
+    },
+    {
+      "id": "d4e5f6",
+      "name": "Venus",
+      "type": "Planeta",
+      "distanceFromSun": "108.2 millones de km"
+    },
+    {
+      "id": "g7h8i9",
+      "name": "Tierra",
+      "type": "Planeta",
+      "distanceFromSun": "149.6 millones de km"
+    },
+    {
+      "id": "j0k1l2",
+      "name": "Marte",
+      "type": "Planeta",
+      "distanceFromSun": "227.9 millones de km"
+    },
+    {
+      "id": "m3n4o5",
+      "name": "Júpiter",
+      "type": "Planeta",
+      "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "cefe",
+      "name": "k29",
+      "type": "Planeta",
+      "distanceFromSun": "34999"
+    },
+    {
+      "id": "e425",
+      "planetName": "Pluton",
+      "type": "Planeta",
+      "planetDistanceFromSun": "12399 millones de km"
+    },
+    {
+      "id": "f03e",
+      "name": "aquiles77",
+      "type": "Planeta",
+      "distanceFromSun": "32434324"
+    },
+    {
+      "id": "cc62",
+      "name": "Urano",
+      "type": "Planeta",
+      "distanceFromSun": "22266778899"
+    },
+    {
+      "id": "3fa8",
+      "name": "K7",
+      "type": "Planeta",
+      "distanceFromSun": "8763284"
+    },
+    {
+      "id": "c56e",
+      "name": "BORJA ",
+      "type": "Planeta",
+      "distanceFromSun": "32434324"
+    },
+    {
+      "id": "71d3",
+      "name": "AQUILES77",
+      "type": "Planeta",
+      "distanceFromSun": "8763284"
+    },
+    {
+      "id": "8f37",
+      "name": "JVAESA07",
+      "type": "Planeta",
+      "distanceFromSun": "8763284"
+    },
+    {
+      "id": "bbdd",
+      "name": "SIGN IN WITH APPLE KEY",
+      "type": "Planeta",
+      "distanceFromSun": "32434324"
+    }
+  ]
+}
